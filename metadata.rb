@@ -12,6 +12,6 @@ supports         'centos', '>= 6.6'
 supports         'centos', '>= 7.1'
 supports         'ubuntu'
 
-chef_version     '>= 12.0.0'
+chef_version     '>= 14.0.0'
 
 depends          'logrotate'
